@@ -1,89 +1,132 @@
-<!-- Banner / Hero Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sahil</span></h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Python | Excel</h3>
+<h1 align="center">🌟 Sahil Satale — Data Analyst Portfolio 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=3EB489&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Data+Analytics+%7C+Dashboards+%7C+Insights;SQL+%7C+Power+BI+%7C+Python+%7C+Excel" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-Python%20|%20SQL%20|%20PowerBI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-Snowflake%20|%20Excel%20|%20AWS-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="mailto:sahil.r.satale@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/sahilsatale/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/SahilSatale"><img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-## 🚀 About Me  
-I am a passionate **Data Analyst** who loves transforming raw data into meaningful insights.  
-My work involves dashboards, automation, advanced SQL queries, predictive analysis, and business reporting.
+## 🚀 About Me
 
-✨ I enjoy projects related to:  
-- HR Analytics  
-- Finance & Banking  
-- Manufacturing & Operations  
-- IT Service Management  
+Hi! I'm **Sahil Satale**, a passionate **Data Analyst** who loves transforming raw data into meaningful insights using:
+
+- 🐍 Python  
+- 🧮 SQL  
+- 📊 Power BI  
+- ❄️ Snowflake  
+- 📈 Data Visualization  
+- ⚙️ ETL & Reporting Automation  
+
+I focus on **clean data**, **beautiful dashboards**, and **business-driven insights**.
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Top Projects (Interactive Buttons Included)
 
-### 📊 **Data Tools**
-| Power BI | SQL | Python | Excel |
-|---------|-----|--------|--------|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+### 🔹 **1. Laptop Dataset Analysis (EDA + Feature Engineering)**  
+📌 *Python · Pandas · NumPy · Matplotlib · Seaborn*
 
-### 🔧 **Technologies**
+👉 **Insights**
+- Premium brands significantly increase laptop prices.  
+- RAM + SSD size are major cost drivers.  
+- GPU brand strongly influences overall pricing.
+
+🔗 **View Project:**  
+<a href="https://github.com/SahilSatale/Data-Analysis-on-Laptop-Dataset">
+  <img src="https://img.shields.io/badge/Click%20Here%20To%20Open-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+### 🔹 **2. Electric Vehicle Population Data Analysis**  
+📌 *Python · Pandas · Visualization*
+
+👉 **Insights**
+- EV adoption is rising fastest in top metro states.  
+- Manufacturer market share shows a high dominance of a few brands.  
+- Clear geographic patterns in EV distribution.
+
+🔗 **View Project:**  
+<a href="https://github.com/SahilSatale/Electric-Vehicle-Population-Data-Analysis-">
+  <img src="https://img.shields.io/badge/Open%20EV%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+### 🔹 **3. Supply Chain SQL Analysis**  
+📌 *SQL · Joins · Window Functions · Aggregations*
+
+👉 **Insights**
+- Top customers responsible for major sales.  
+- High cancellation items identified.  
+- Monthly sales & demand patterns discovered.
+
+🔗 **View Project:**  
+<a href="https://github.com/SahilSatale/Supply-Chain-Order-Analysis">
+  <img src="https://img.shields.io/badge/Open%20SQL%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+### 🔹 **4. Zomato Restaurant Data Analysis**  
+📌 *Python · Pandas · Visualization*
+
+👉 **Insights**
+- North Indian, Chinese, Fast Food = top cuisines  
+- Online delivery restaurants show 10–15% higher engagement  
+- Localities with top ratings contribute 40%+ of good-rated restaurants  
+
+🔗 **View Project:**  
+<a href="https://github.com/SahilSatale/Data-Analysis-on-Zomato-Using-Python">
+  <img src="https://img.shields.io/badge/Open%20Zomato%20Analysis-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+### 🔹 **5. HR Analytics Dashboard (Power BI)**  
+📌 *Power BI · DAX · Data Modeling*
+
+👉 **Insights**
+- High attrition in low performance employees  
+- Sales & HR = 50%+ total attrition  
+- Majority workforce: age 25–35  
+- 20–30% higher attrition in low performers  
+
+🔗 **View Project:**  
+<a href="https://github.com/SahilSatale/HR-Analytics-Dashboard-Power-BI">
+  <img src="https://img.shields.io/badge/Open%20HR%20Dashboard-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffd343"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-0F9D58?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Snowflake-blue?style=for-the-badge&logo=snowflake"/>
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 💬 Contact Me
 
-### 🔹 **1. HR Analytics Dashboard (Power BI)**
-📌 *Attrition insights, performance metrics, demographics*  
-🔗 **GitHub:** *Add your link here*  
-⭐ KPIs • DAX • Data Modelling • Visualization
+If you want to collaborate, hire, or discuss anything related to data — feel free to contact me:
 
----
-
-### 🔹 **2. Banking Loan Default Analysis (EDA + ML)**
-📌 Analysis on defaulters, risk segments, income patterns  
-🔗 **GitHub:** *Add your link here*  
-⭐ EDA • Data Cleaning • Visualization • Predictive Modelling
+📧 **Email:** sahil.r.satale@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/sahilsatale  
+🐙 **GitHub:** github.com/SahilSatale  
 
 ---
 
-### 🔹 **3. Manufacturing Production Dashboard**
-📌 Cost optimization, downtime analysis, efficiency  
-🔗 **GitHub:** *Add your link here*  
-⭐ ETL • Dashboards • Reporting
-
----
-
-### 🔹 **4. IT Ticket Analysis (SQL Project)**
-📌 Advanced SQL queries on ticket priority, resolution time  
-🔗 **GitHub:** *Add your link here*  
-⭐ Joins • Window Functions • CTEs
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## ✨ Fun Fact
-📌 *I turn problems into insights and insights into decisions.*
-
+<h3 align="center">⭐ If you like my projects, don't forget to star the repositories! ⭐</h3>
