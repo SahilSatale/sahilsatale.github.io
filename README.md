@@ -28,19 +28,42 @@ I focus on **clean data**, **beautiful dashboards**, and **business-driven insig
 
 ---
 
-## 🎯 Top Projects (Interactive Buttons Included)
+# 🧑‍💼 Work Experience
+
+## 🔹 **Data Analyst — AM-Lead Magnets, Pune**  
+📅 *Feb 2025 – Dec 2025*
+
+- Built interactive **Power BI dashboards** for campaign ROI and marketing KPIs.  
+- Automated reports using **SQL + Excel**, reducing manual work by **50%**.  
+- Performed **data cleaning, transformation, visualization** for growth insights.  
+- Collaborated with marketing & sales teams for strategic decisions.  
+- Built **ad-hoc reports** for investors and leadership.  
+
+---
+
+## 🔹 **Data Analyst Intern — NMD Infotech Pvt Ltd, Pune**  
+📅 *Jul 2024 – Feb 2025*
+
+- Cleaned & transformed **10K+ rows** from multiple sources (SQL + Excel).  
+- Improved reporting speed by **35%** via optimization.  
+- Created Power BI dashboards for weekly KPI monitoring.  
+- Improved ETL accuracy by adding **data validation steps**.  
+
+---
+
+# 📂 Featured Projects (Interactive Buttons)
 
 ### 🔹 **1. Laptop Dataset Analysis (EDA + Feature Engineering)**  
 📌 *Python · Pandas · NumPy · Matplotlib · Seaborn*
 
-👉 **Insights**
+👉 **Insights**  
 - Premium brands significantly increase laptop prices.  
 - RAM + SSD size are major cost drivers.  
 - GPU brand strongly influences overall pricing.
 
 🔗 **View Project:**  
 <a href="https://github.com/SahilSatale/Data-Analysis-on-Laptop-Dataset">
-  <img src="https://img.shields.io/badge/Click%20Here%20To%20Open-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Open%20Project-181717?style=for-the-badge&logo=github">
 </a>
 
 ---
@@ -48,10 +71,10 @@ I focus on **clean data**, **beautiful dashboards**, and **business-driven insig
 ### 🔹 **2. Electric Vehicle Population Data Analysis**  
 📌 *Python · Pandas · Visualization*
 
-👉 **Insights**
-- EV adoption is rising fastest in top metro states.  
-- Manufacturer market share shows a high dominance of a few brands.  
-- Clear geographic patterns in EV distribution.
+👉 **Insights**  
+- EV adoption rising fastest in top metro states.  
+- Manufacturer market shares show clear dominance patterns.  
+- Geographic EV distribution shows strong clusters.
 
 🔗 **View Project:**  
 <a href="https://github.com/SahilSatale/Electric-Vehicle-Population-Data-Analysis-">
@@ -60,13 +83,13 @@ I focus on **clean data**, **beautiful dashboards**, and **business-driven insig
 
 ---
 
-### 🔹 **3. Supply Chain SQL Analysis**  
-📌 *SQL · Joins · Window Functions · Aggregations*
+### 🔹 **3. Supply Chain Order Analysis (SQL)**  
+📌 *SQL · Window Functions · Joins · Aggregations*
 
-👉 **Insights**
-- Top customers responsible for major sales.  
-- High cancellation items identified.  
-- Monthly sales & demand patterns discovered.
+👉 **Insights**  
+- Top customers drive majority of revenue.  
+- Identified high cancellation items.  
+- Monthly demand & order volume patterns.
 
 🔗 **View Project:**  
 <a href="https://github.com/SahilSatale/Supply-Chain-Order-Analysis">
@@ -76,16 +99,16 @@ I focus on **clean data**, **beautiful dashboards**, and **business-driven insig
 ---
 
 ### 🔹 **4. Zomato Restaurant Data Analysis**  
-📌 *Python · Pandas · Visualization*
+📌 *Python · Pandas · Seaborn*
 
-👉 **Insights**
-- North Indian, Chinese, Fast Food = top cuisines  
-- Online delivery restaurants show 10–15% higher engagement  
-- Localities with top ratings contribute 40%+ of good-rated restaurants  
+👉 **Insights**  
+- Top cuisines: North Indian, Chinese, Fast Food.  
+- Online delivery restaurants show 10–15% higher engagement.  
+- Highly-rated localities contribute 40%+ top restaurants.
 
 🔗 **View Project:**  
 <a href="https://github.com/SahilSatale/Data-Analysis-on-Zomato-Using-Python">
-  <img src="https://img.shields.io/badge/Open%20Zomato%20Analysis-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Open%20Zomato%20Project-181717?style=for-the-badge&logo=github">
 </a>
 
 ---
@@ -93,20 +116,20 @@ I focus on **clean data**, **beautiful dashboards**, and **business-driven insig
 ### 🔹 **5. HR Analytics Dashboard (Power BI)**  
 📌 *Power BI · DAX · Data Modeling*
 
-👉 **Insights**
-- High attrition in low performance employees  
-- Sales & HR = 50%+ total attrition  
-- Majority workforce: age 25–35  
-- 20–30% higher attrition in low performers  
+👉 **Insights**  
+- High attrition in low-performance employees.  
+- Sales + HR = 50%+ attrition.  
+- Majority workforce: Age 25–35.  
+- Low performers → 20–30% more likely to leave.
 
 🔗 **View Project:**  
 <a href="https://github.com/SahilSatale/HR-Analytics-Dashboard-Power-BI">
-  <img src="https://img.shields.io/badge/Open%20HR%20Dashboard-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Open%20HR%20Dashboard-181717?style=for-the-badge&logo=powerbi">
 </a>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
@@ -119,14 +142,12 @@ I focus on **clean data**, **beautiful dashboards**, and **business-driven insig
 
 ---
 
-## 💬 Contact Me
-
-If you want to collaborate, hire, or discuss anything related to data — feel free to contact me:
+# 💬 Contact Me
 
 📧 **Email:** sahil.r.satale@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/sahilsatale  
-🐙 **GitHub:** github.com/SahilSatale  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sahilsatale  
+🐙 **GitHub:** https://github.com/SahilSatale  
 
 ---
 
-<h3 align="center">⭐ If you like my projects, don't forget to star the repositories! ⭐</h3>
+<h3 align="center">⭐ If you like my work, consider starring my repositories! ⭐</h3>
